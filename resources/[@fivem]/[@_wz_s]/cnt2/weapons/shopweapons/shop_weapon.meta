@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WeaponShopItemArray>
+	<weaponShopItems>
+		<Item>
+			<lockHash>CU_WEP_PISTOL</lockHash>
+			<nameHash>WEAPON_PISTOL</nameHash>
+			<cost value ="3750"/>
+			<ammoCost value="100"/>
+			<textLabel>WT_PIST</textLabel>
+			<weaponDesc>WTD_PIST</weaponDesc>
+			<weaponTT>WTT_PIST</weaponTT>
+			<weaponUppercase>WTU_PIST</weaponUppercase>
+			<id value = "1"/>
+			<weaponComponents>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CLIP_01</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CLIP1</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CLIP_02</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CLIP2</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_VARMOD_LUXE</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_VAR_GOLD</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_1</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_02</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_2</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_03</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_3</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_04</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_4</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_05</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_5</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_06</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_6</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_07</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_7</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_08</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_8</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_09</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_9</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_10</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_10</textLabel>
+				</Item>
+				<Item>
+					<componentName>COMPONENT_PISTOL_CAMO_IND_01</componentName>
+					<cost value = "500"/>
+					<textLabel>WCT_CAMO_IND</textLabel>
+				</Item>
+			</weaponComponents>
+		</Item>
+	</weaponShopItems>
+</WeaponShopItemArray>	

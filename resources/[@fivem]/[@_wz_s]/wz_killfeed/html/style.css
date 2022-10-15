@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Gemunu+Libre:wght@300&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 6px;
+    overflow: hidden;
+}
+
+.killContainer {
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: right;
+    background: rgba(0, 0, 0, 0.7);
+    color: #FFF;
+    font-family: 'Arial', sans-serif;
+    line-height: 29px;
+    font-size: 19px;
+    text-align: center;
+    box-shadow:  0 0 10px  rgba(78, 78, 78, 0.6);
+    -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px  rgba(0,0,0,0.6);
+    margin-bottom: 8px;
+}
+
+.weapon {
+    height: 15px;
+    padding-top: 7px;
+    display: inline;
+    vertical-align: top;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.badge {
+    height: 21px;
+    padding-top: 4px;
+    display: inline;
+    vertical-align: top;
+    padding-left: 0px;
+    padding-right: 5px;
+}
+
+.badge_right {
+    height: 21px;
+    padding-top: 4px;
+    display: inline;
+    vertical-align: top;
+    padding-left: 5px;
+    padding-right: 0px;
+}
+
+.killer {
+    color: rgb(255, 254, 254);
+}
+
+.killed {
+    color: rgb(255, 17, 0);
+}
+
+.clear {
+    clear:both
+}

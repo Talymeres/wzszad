@@ -1,0 +1,88 @@
+@font-face {
+	font-family: bankgothic;
+	src: url('../fonts/bankgothic.ttf');
+}
+
+@font-face {
+	font-family: pcdown;
+	src: url('../fonts/pdown.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+
+.menu {
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0px 0px 50px 0px #000;
+	overflow-y: auto;
+	max-height: 90%;
+	padding: 8px;
+	background-color:rgba(57, 67, 91, 0.8);
+	border-radius: 5px
+}
+
+.menu button {
+	font-family: 'Roboto', sans-serif;
+	border: 0;
+	transition: all 0.3s ease-in-out;
+	box-shadow: -1px 1px rgba(0,0,0,0.2);
+	text-transform: uppercase;
+	background: #275efe;
+	padding: 5px;
+	font-weight: 300;
+	color: #fff;
+	outline: 0;
+	border: 0;
+	border-radius: 7px;
+}
+
+.menu button:hover {
+	background: #fff;
+    color: #275efe;
+}
+.header img {
+	width: 100%;
+	height: auto;
+}
+
+.menu>table {
+	border: 1px transparent;
+	border-spacing: 0;
+	min-width: 500px;
+	background-color: rgba(57, 67, 91, 0.6);
+}
+
+.menu>table>thead {
+	background-color: rgba(57, 67, 91, 0.6);
+	text-align: center;
+	height: 10px;
+	line-height: 10px;
+	color: #fff;
+}
+
+.menu td {
+	text-align: center;
+	padding: 8px;
+
+}
+
+.menu tr {
+}
+
+.menu tbody tr:nth-child(even) {
+	background: rgba(57, 67, 91, 0.6);
+	color: #fff;
+}
+
+.menu tbody tr:nth-child(odd) {
+	background: rgb(101 118 158 / 60%);
+	color: #fff;
+	transition: all 0.2s ease-in-out;
+}
+
+.menu tbody tr:nth-child(odd):hover {
+	background: rgba(57, 67, 91, 0.6);
+}

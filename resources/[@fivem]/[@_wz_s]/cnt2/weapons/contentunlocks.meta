@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+	<listOfUnlocks>
+		<Item>CU_WEP_FLASHBANG</Item>
+		<Item>CU_WEP_PELLE</Item>
+		<Item>CU_WEP_CANETTE</Item>
+		<Item>CU_WEP_BOUTEILLE</Item>
+		<Item>CU_WEP_SLEDGEHAMMER</Item>
+		<Item>CU_WEP_PICKAXE</Item>
+		<Item>CU_WEP_KATANA</Item>
+		<Item>CU_WEP_BEAMBAG</Item>
+		<Item>CU_WEP_CHAINSAW</Item>
+		<Item>CU_WEP_NAILGUN</Item>
+	</listOfUnlocks>
+</SContentUnlocks>

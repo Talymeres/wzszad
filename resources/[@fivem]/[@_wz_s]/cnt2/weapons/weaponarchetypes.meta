@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CWeaponModelInfo__InitDataList>
+    <InitDatas>
+        <!-- Custom weapons -->
+        <Item>
+            <modelName>W_AR_CarbineRifleMk2_Asimov</modelName>
+            <txdName>W_AR_CarbineRifleMk2_Asimov</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <ExpressionDictionaryName>W_AR_CarbineRifle</ExpressionDictionaryName>
+            <ExpressionName>W_AR_CarbineRifle</ExpressionName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_MG_CombatMG_Feverdream</modelName>
+            <txdName>W_MG_CombatMG_Feverdream</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_AR_SpecialCarbineMk2_trex</modelName>
+            <txdName>W_AR_SpecialCarbineMk2_trex</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_SB_SMG_Survivor</modelName>
+            <txdName>W_SB_SMG_Survivor</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_PistolMk2_War</modelName>
+            <txdName>W_PI_PistolMk2_War</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_me_bat_berseker</modelName>
+            <txdName>w_me_bat_berseker</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_ME_Pelle</modelName>
+            <txdName>W_ME_Pelle</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_ex_canette</modelName>
+            <txdName>w_ex_canette</txdName>
+            <ptfxAssetName>NULL</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_ex_bouteille</modelName>
+            <txdName>w_ex_bouteille</txdName>
+            <ptfxAssetName>NULL</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_ME_sledgehammer</modelName>
+            <txdName>W_ME_sledgehammer</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_ME_Pickaxe</modelName>
+            <txdName>W_ME_Pickaxe</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_ME_Katana</modelName>
+            <txdName>W_ME_Katana</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_SG_Beambag</modelName>
+            <txdName>W_SG_BEAMBAG</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="30"/>
+        </Item>
+        <Item>
+            <modelName>W_ME_Chainsaw</modelName>
+            <txdName>W_ME_Chainsaw</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="30"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_NAILGUN</modelName>
+            <txdName>W_PI_NailGun</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="30"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_Wep2_Gun</modelName>
+            <txdName>W_PI_Wep2_Gun</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_Wep2_Gun_mag1</modelName>
+            <txdName>W_PI_Wep2_Gun</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_Ceramic_Pistol</modelName>
+            <txdName>W_PI_Ceramic_Pistol</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_Ceramic_Mag1</modelName>
+            <txdName>W_PI_Ceramic_Mag1</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>W_PI_Ceramic_Supp</modelName>
+            <txdName>W_PI_Ceramic_Supp</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <!-- Jerrycan -->
+        <Item>
+            <modelName>W_CH_Jerrycan</modelName>
+            <txdName>W_CH_Jerrycan</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_pi_singleshoth4</modelName>
+            <txdName>w_pi_singleshoth4</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_pi_singleshoth4_shell</modelName>
+            <txdName>w_pi_singleshoth4_shell</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <!-- Combat Shotgun -->
+        <Item>
+            <modelName>w_sg_pumpshotgunh4</modelName>
+            <txdName>w_sg_pumpshotgunh4</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_sg_pumpshotgunh4_mag1</modelName>
+            <txdName>w_sg_pumpshotgunh4_mag1</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <!-- Military Rifle -->
+        <Item>
+            <modelName>w_ar_bullpuprifleh4</modelName>
+            <txdName>w_ar_bullpuprifleh4</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_ar_bullpuprifleh4_mag1</modelName>
+            <txdName>w_ar_bullpuprifleh4_mag2</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_ar_bullpuprifleh4_mag2</modelName>
+            <txdName>w_ar_bullpuprifleh4_mag2</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+        <Item>
+            <modelName>w_ar_bullpuprifleh4_sight</modelName>
+            <txdName>w_ar_bullpuprifleh4_sight</txdName>
+            <ptfxAssetName>null</ptfxAssetName>
+            <lodDist value="50"/>
+        </Item>
+    </InitDatas>
+</CWeaponModelInfo__InitDataList>

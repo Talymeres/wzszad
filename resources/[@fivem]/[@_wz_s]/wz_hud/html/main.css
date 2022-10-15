@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Exo&display=swap');
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.ui {
+    font-family: 'Exo', sans-serif;
+    position: absolute;
+    right: 30;
+    bottom: 100;
+    color: white;
+}
+
+.ui2 {
+    font-family: 'Exo', sans-serif;
+    position: absolute;
+    right: 362;
+    bottom: 125px;
+    color: white;
+}
+
+.fuel {
+    display: none;
+    font-family: 'Exo', sans-serif;
+    margin-top: 2px;
+    width: 240px;
+    height: 20px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: white;
+}
+
+.fuel > #fuel-level {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.armour {
+    font-family: 'Exo', sans-serif;
+    margin-top: 5px;
+    width: 320px;
+    height: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: rgb(7, 7, 7);
+}
+
+.armour > #armour-level {
+    width: 50%;
+    height: 50%;
+    margin-bottom: 8px;
+    /*height: 15px;*/
+    padding-top: 7px;
+    background-color: rgba(86, 160, 230, 0.7);
+}
+
+
+.carre-armour {
+    font-family: 'Exo', sans-serif;
+    margin-top: 5px;
+    width: 20px;
+    height: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: rgb(7, 7, 7);
+}
+
+.logo-armour img {
+    height: 20px;
+    width: 20px;
+    margin-top: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    right: 362;
+    bottom: 127px;
+    color: white;
+    position: absolute;
+}
+
+.carre-health {
+    font-family: 'Exo', sans-serif;
+    margin-top: -50px;
+    width: 20px;
+    height: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: rgb(7, 7, 7);
+}
+
+.logo-plus img {
+    height: 18px;
+    width: 19px;
+    margin-bottom: -25px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    right: 362;
+    bottom: 127px;
+    color: white;
+    position: absolute;
+}
+
+.logo-test {
+    color: rgb(255, 254, 254);
+}
+
+.logo-armour > #logo-armour-level {
+    height: 50px;
+    padding-top: 0px;
+    display: inline;
+    vertical-align: top;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: rgba(86, 160, 230, 0.7);
+}
+
+.health {
+    font-family: 'Exo', sans-serif;
+    margin-top: 5px;
+    width: 320px;
+    height: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    background-color: rgba(0, 0, 0, 0.55);
+    color: white;
+}
+
+.health > #health-level {
+    width: 50%;
+    height: 50%;
+    margin-bottom: 8px;
+    padding-top: 7px;
+    background-color: rgba(241, 235, 235, 0.7);
+}

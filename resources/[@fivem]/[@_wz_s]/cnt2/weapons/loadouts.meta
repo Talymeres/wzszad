@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedInventoryLoadOutManager>
+    <LoadOuts>
+        <Item>
+            <Name>LOADOUT_CHEAT_0</Name>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_SMOKELSPD</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_PELLE</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_CANETTE</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BOUTEILLE</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_SLEDGEHAMMER</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_PICKAXE</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_KATANA</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BEAMBAG</WeaponName>
+                <Ammo value="50" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+        </Items>
+    </Item>
+    <Item>
+        <Name>LOADOUT_CHEAT_1</Name>
+        <Items>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_SMOKELSPD</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_PELLE</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_CANETTE</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BOUTEILLE</WeaponName>
+                <Ammo value="10" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_SLEDGEHAMMER</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_PICKAXE</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_KATANA</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BEAMBAG</WeaponName>
+                <Ammo value="50" />
+                <Flags />
+                <ComponentNames>
+                    <Item>COMPONENT_AT_AR_FLSH</Item>
+                    <Item>COMPONENT_AT_SR_SUPP</Item>
+                </ComponentNames>
+            </Item>
+        </Items>
+    </Item>
+    <Item>
+        <Name>LOADOUT_COP_L1</Name>
+        <Items>
+            <Item type="CLoadOutWeapon">
+                <WeaponName>WEAPON_BEAMBAG</WeaponName>
+                <Ammo value="0" />
+                <Flags />
+                <ComponentNames />
+            </Item>
+        </Items>
+    </Item>
+</LoadOuts>undefined</CPedInventoryLoadOutManager>
